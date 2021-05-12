@@ -18,7 +18,7 @@
 先上效果图：
 
 
-![](https://img2020.cnblogs.com/blog/1250245/202105/1250245-20210512111804565-1176936751.gif)
+![chrome-capture (3)](https://user-images.githubusercontent.com/21350874/117982692-d8311c80-b368-11eb-8bbe-8203d5582384.gif)
 
 
 **代码地址**：[gitee](https://gitee.com/Wzhichao/canvas-video)
